@@ -108,5 +108,5 @@ def main():
     # Start the bot 
     application.run_polling() 
  
-if name == "__main__": 
+if__name__ == "__main__": 
     main()
