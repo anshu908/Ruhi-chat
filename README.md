@@ -4,9 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=ANSH+Rishu">
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anshu908&repo=ANSH &theme=flag-india)
-[![GIF](https://github.com/anshu908/ANSH /blob/main/anshu908.gif)](https://github.com/anshu908)
-   [!ANSH ](https://github-stats-alpha.vercel.app/api?username=anshu908 "anshu908")](https://github-stats-alpha.vercel.app/api?username=anshu908 "RISHU")
                   
 
 <p align="center">
