@@ -1,4 +1,4 @@
-from pyrogram import Client, filters
+fro pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Bot settings
