@@ -97,7 +97,7 @@ async def respond(update: Update, context: ContextTypes.DEFAULT_TYPE):
  
 # Main bot setup 
 def main(): 
-    TOKEN = "7200585807:AAHCf3bGC-GGETE7NJe-UPPZI9AzLZ-VqUI"  # Replace with your bot token 
+    TOKEN = "8007060492:AAFNr28xUM6QnX4w6AIRrj2Um43ZpEa_5ZU"  # Replace with your bot token 
     application = ApplicationBuilder().token(TOKEN).build() 
  
     # Handlers 
